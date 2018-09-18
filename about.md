@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+This is a Data Science blog, enjoy!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Full immersion. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jfwaldern@gmail.com](mailto:jfwaldern@gmail.com)
