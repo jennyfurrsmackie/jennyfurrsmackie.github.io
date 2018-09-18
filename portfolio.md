@@ -1,3 +1,3 @@
 
 
-I'd like to add a grid of projects here! 
+Grid of projects to come! 
