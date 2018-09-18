@@ -1,3 +1,3 @@
 ## Portfolio Page
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+[I'd like to add a grid of projects here! ]
