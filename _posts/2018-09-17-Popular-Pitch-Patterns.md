@@ -2,9 +2,9 @@
 published: true
 ---
 
-# TEMPORAL PATTERN RECOGNITION: PREDICTING THE "MILLENIAL WHOOP"
+## Temporal Pattern Recognition: Predicting the Millenial Whoop
 
-## INTRODUCTION
+### INTRODUCTION
 
 **PURPOSE:**
     
@@ -60,7 +60,7 @@ published: true
 
 ***
 
-## DATA COLLECTION
+### DATA COLLECTION
 
 Import Python Libraries 
 
@@ -330,7 +330,7 @@ df_whoopall.head()
 
 
 
-## WRANGLE DATA
+### WRANGLE DATA
 
 
 ```python
@@ -935,9 +935,9 @@ df_pitchesall.head()
 
 
 
-## DATA EXPLORATION
+### DATA EXPLORATION
 
-### 1. Visualizing instances where we know the pitch segments contain "whoops" 
+#### 1. Visualizing instances where we know the pitch segments contain "whoops" 
 
 Visualizing whoop pitch patterns over a span of 18 segments between two songs:
 
@@ -1268,14 +1268,14 @@ sns.heatmap(df_pitchesall.corr())
 ![png](output_29_1.png)
 
 
-### 2. Visualizing "non-whoop" segments
+#### 2. Visualizing "non-whoop" segments
 
-## HYPOTHESIS
+### HYPOTHESIS
 
 There is enough evidence to suggest that we may be able to predict the occurance of a "whoop" using pitches over time. 
 * Note we could also choose to explore here timbre patterns similarily to how we've explored pitch patterns for whoops and non-whoops. Comparing a model using pitch segments vs timbre segments vs a combination of pitch and timbre information would be useful if time permitted.
 
-## MODEL DATA: SVC
+### MODEL DATA: SVC
 
 Note: This section has not been completed due to time constraints. allsegments.json would be uploaded into a dataframe and used to fix the below issue of having a monomial classifier (in allsegments.json we have 0 and 1 whoop and non-whoop pitch segments)
 
@@ -4539,11 +4539,11 @@ def dynamicTimeWarp(seqA, seqB, d = lambda x,y: abs(x-y)):
 
 **Question 7:** How can we use this to identify MW occurances and frequency accross an entire song? And if we did, could we use MW occurance as a predictor of song popularity post Millenium? 
 
-## RESULTS AND MODEL ACCURACY
+### RESULTS AND MODEL ACCURACY
 
 * Here, given more time, we would summarize the predictive capabilities accross considered models, and we would use the top performing model on newly chosen song segments to see how it performs on entirely new data.
 
-## DISCUSSION AND LIMITATIONS
+### DISCUSSION AND LIMITATIONS
 
 Future versions and improvemens of this project may include:
 
@@ -4560,15 +4560,15 @@ Limitations and Considerations:
 
 * The MW is constructed most often by a joining of the sounds "Ooo" -"Ah" -> In this project we have measured pitch only, cooresponding to the given frequency and therefore note patterns of a WM. Vowel sounds and other timbral measures have not been included in v1 of this project.  
 
-## SUMMARY
+### SUMMARY
 
 In this project we learned how to collect, wrangle, visualize and model spotify audio analysis data. More specifically, we analysed pitches over time with respect to song segments that included common 3-5 chord progression pop phenomena known as the "Millenial Whoop." Unfortunately due to time constraints we have not been able to posulate a durable classification model which performs effectively. Further models will be investigated in later versions of this project. 
 
 ***
-## ** ARCHIVE TO FOLLOW **
+### ** ARCHIVE TO FOLLOW **
 ***
 
-### UNUSED CODE
+#### UNUSED CODE
 
 
 ```python
@@ -4634,7 +4634,7 @@ df4 = pd.DataFrame.from_dict(json_normalize(beatCols))
 df4
 ```
 
-### CREATE FREQUENCY DATAFRAME
+#### CREATE FREQUENCY DATAFRAME
 
 
 ```python
