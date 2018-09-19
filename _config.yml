@@ -41,9 +41,9 @@ footer:
       url: "jennyfurrsmackie"
     - label: "email"
       url: "jfwaldern@gmail.com"
-    #- label: "Instagram"
+    - label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/mmistakes"
+      url: "artists.nook"
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
