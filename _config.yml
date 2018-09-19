@@ -35,10 +35,10 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://linkedin.com/in/jenniferwaldern/"
+      url: "jenniferwaldern/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jennyfurrsmackie"
+      url: "jennyfurrsmackie"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/mmistakes"
