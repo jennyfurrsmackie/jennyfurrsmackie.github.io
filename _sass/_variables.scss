@@ -3,6 +3,9 @@
 // VARIABLES
 //
 
+@import url('https://fonts.googleapis.com/css?family=Garamond');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
 // Colors
 $blue: #4183C4;
 
@@ -18,6 +21,8 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$garamond: Garamond;
+$oswald: Oswald;
 
 // Mobile breakpoints
 @mixin mobile {
