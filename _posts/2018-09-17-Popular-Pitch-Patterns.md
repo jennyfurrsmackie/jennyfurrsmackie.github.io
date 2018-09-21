@@ -18,8 +18,6 @@ published: true
     A) by modelling MW pitch patterns. 
     B) will be investigated in later versions of this project.
 
-**BACKGROUND:**
-
     The [Millenial Whoop](https://fr.wikipedia.org/wiki/Millennial_whoop) is a 3-5 chord progression phenomena discovered commonly in modern pop music.  For a quick overview of the MW, see here: [The Millenial Whoop is Taking Over Pop Music](https://www.youtube.com/watch?v=MN23lFKfpck). 
     
 **APPROACH:**
@@ -36,7 +34,7 @@ published: true
     6) MODEL TEST RESULTS AND ACCURACY
     7) DISCUSSION AND LIMITATIONS
     8) CONCLUSION
-    9) ARCHIVE 
+    9) ARCHIVE
     
 **TOOLS:**
 
