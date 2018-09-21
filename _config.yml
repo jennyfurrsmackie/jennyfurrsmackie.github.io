@@ -100,4 +100,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-dinky
+#theme: jekyll-theme-dinky
