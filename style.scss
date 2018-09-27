@@ -20,7 +20,7 @@ html {
 body {
 	background: $eerieblack;
   font: 16px/1.4 $garamond;
-  color: $darkGray;
+  color: $eerieblack;
 }
 
 .container {
@@ -194,7 +194,7 @@ img {
 .site-name {
   margin: 0;
   --color: $darkGray;
-  color: $lightGray;
+  color: $lightcosmic;
   cursor: pointer;
   font-family: $oswald;
   font-weight: 300;
@@ -204,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $artichokeGrey;
   font-size: 16px;
 
   @include mobile {
@@ -227,14 +227,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $redcopper;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $redcopper;
     }
   }
 }
