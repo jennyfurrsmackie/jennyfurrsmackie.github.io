@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $eerieblack;
-  font: 16px/1.4 $garamond;
+  font: 14px/1.4 $opensans;
   color: $eerieblack;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $opensans;
+  font-family: $garamond;
   --color: $darkerGray;
   color: $lightcosmic;
   font-weight: bold;
@@ -196,7 +196,7 @@ img {
   --color: $darkGray;
   color: $lightcosmic;
   cursor: pointer;
-  font-family: $oswald;
+  font-family: $opensans;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
