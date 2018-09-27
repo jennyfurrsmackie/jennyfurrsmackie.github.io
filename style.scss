@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $eerieblack;
-  font: 16px/1.4 $opensans;
+  font: 16px/1.4 $garamond;
   color: $eerieblack;
 }
 
@@ -31,10 +31,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $oswald;
+  font-family: $opensans;
   --color: $darkerGray;
   color: $lightcosmic;
-  --font-weight: bold;
+  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
