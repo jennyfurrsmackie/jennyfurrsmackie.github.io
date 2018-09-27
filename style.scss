@@ -31,10 +31,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $garamond;
+  font-family: $oswald;
   --color: $darkerGray;
   color: $lightcosmic;
-  font-weight: bold;
+  --font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -197,6 +197,7 @@ img {
   color: $lightcosmic;
   cursor: pointer;
   font-family: $opensans;
+  text-transform: uppercase;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -205,6 +206,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $artichokeGrey;
+  font-style: italic;
   font-size: 16px;
 
   @include mobile {
