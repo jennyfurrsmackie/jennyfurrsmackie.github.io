@@ -6,6 +6,7 @@
 @import url('https://fonts.googleapis.com/css?family=Garamond');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
 
 // Colors
 
@@ -36,7 +37,8 @@ $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
-$lightGray: #eee;   
+$lightGray: #eee;
+$whiteish: #f5f5f5; 
 $white: #fff;
 
 // Font stacks
@@ -47,6 +49,7 @@ $garamond: Garamond;
 $oswald: Oswald;
 $manus: Manus;
 $opensans: "Open Sans";
+$charmonman: "Charmonman";
 
 // Mobile breakpoints
 @mixin mobile {
