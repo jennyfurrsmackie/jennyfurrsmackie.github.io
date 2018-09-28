@@ -280,11 +280,11 @@ nav {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  --height: 100vh;
-  --width: 100vw;
-  height:330px
-  width: 960px
-  @media (max-width: 100px)
+  height: 100vh;
+  width: 100vw;
+  --height:330px
+  --width: 960px
+  @media (max-width: 960px)
   {
     flex-flow: column no-wrap;
     &__item {
@@ -303,7 +303,7 @@ nav {
     box-shadow: inset 0 0 0 100vmax rgba(255, 255, 255, 0.1);
     transition: .2s all;
     cursor: pointer;
-    @media (min-width: 101px)
+    @media (min-width: 961px)
     {
       height: 100%;
     }
