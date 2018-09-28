@@ -277,7 +277,7 @@ nav {
 // for gallery.html layout (portfolio home)
 .c-hero-flex {
   display: flex;
-  flex-flow: column wrap-reverse;
+  flex-wrap: wrap-reverse;
   justify-content: center;
   align-items: center;
   height: 100vh;
