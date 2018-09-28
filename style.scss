@@ -281,6 +281,7 @@ nav {
   align-items: center;
   height: 100vh;
   width: 100vw;
+  margin: 10px;
   @media (max-width: 740px)
   {
     flex-flow: column wrap;
