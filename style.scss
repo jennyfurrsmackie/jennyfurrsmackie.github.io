@@ -26,7 +26,7 @@ body {
 .container {
   margin: 0 auto;
   --max-width: 740px;
-  padding: 0 10px;
+  padding: 0 0;
   width: 100%;
 }
 
@@ -345,9 +345,10 @@ nav {
 }
 
 footer {
-  padding: 20px 0;
+  padding: 0 0;
   text-align: center;
 }
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
