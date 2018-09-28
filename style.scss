@@ -277,7 +277,7 @@ nav {
 // for gallery.html layout (portfolio home)
 .c-hero-flex {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   height: 100vh;
   width: 100vw;
@@ -299,7 +299,7 @@ nav {
     // height: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     background-size: cover;
     box-shadow: inset 0 0 0 100vmax rgba(255, 255, 255, 0.1);
     transition: .2s all;
@@ -341,7 +341,7 @@ nav {
   margin-top: 50px;
   --border-top: 1px solid #ddd;
   --border-bottom: 1px solid #ddd;
-  background-color: $smokyblack;
+  background-color: $whiteish;
 }
 
 footer {
