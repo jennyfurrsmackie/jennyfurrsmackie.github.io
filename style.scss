@@ -290,10 +290,6 @@ nav {
     &__item {
       width: 100%;
     }
-  @include mobile {
-    float: none;
-    display: block;
-  }
   }
       
   &__item {
