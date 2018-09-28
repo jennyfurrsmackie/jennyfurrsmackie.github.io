@@ -283,7 +283,7 @@ nav {
   width: 100vw;
   @media (max-width: 960px)
   {
-    flex-flow: column nowrap;
+    flex-flow: column wrap;
     &__item {
       width: 100%;
     }
