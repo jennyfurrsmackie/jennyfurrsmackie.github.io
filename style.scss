@@ -361,6 +361,9 @@ nav {
 }
 
 .wrapper-footer {
+  display: flex
+  justify-content: center;
+  align-items: center;
   margin-top: 50px;
   --border-top: 1px solid #ddd;
   --border-bottom: 1px solid #ddd;
@@ -369,7 +372,7 @@ nav {
 
 footer {
   padding: 0 0;
-  text-align: center;
+  //text-align: center;
 }
 
 
