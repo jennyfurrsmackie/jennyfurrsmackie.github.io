@@ -20,12 +20,13 @@ html {
 body {
   background: $whiteish;
   font: 14px/1.4 $opensans;
-  color: $darkgrey;
+  color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
   --max-width: 740px;
+  display: flex;
   padding: 0 0;
   width: 100%;
 }
