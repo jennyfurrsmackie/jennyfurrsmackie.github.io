@@ -286,6 +286,7 @@ nav {
   //flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+  flex-wrap:wrap;
   //height: 100vh;
   //width: 100vw;
   //height:330px
@@ -300,7 +301,9 @@ nav {
   }
       
   &__item {
+    flex-basis: 0;
     flex-grow: 1;
+    flex-wrap:wrap;
     background: $whiteish;
     min-width: 230px;
     // height: 100%;
