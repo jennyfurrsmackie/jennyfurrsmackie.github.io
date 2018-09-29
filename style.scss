@@ -282,7 +282,7 @@ nav {
 // for gallery.html layout (portfolio home)
 .c-hero-flex {
   display: flex;
-  flex-flow: column wrap;
+  //flex-flow: column wrap;
   justify-content: center;
   align-items: center;
   //height: 100vh;
@@ -293,7 +293,7 @@ nav {
   {
     flex-flow: column no-wrap;
     &__item {
-      width: 100%;
+      width: 50%;
     }
   }
       
@@ -310,7 +310,7 @@ nav {
     cursor: pointer;
     @media (min-width: 961px)
     {
-      height: 100%;
+      height: 50%;
     }
         
     &:hover {
