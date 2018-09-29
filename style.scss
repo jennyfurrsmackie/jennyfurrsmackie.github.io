@@ -27,6 +27,8 @@ body {
   margin: 0 auto;
   --max-width: 740px;
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
   padding: 0 0;
   width: 100%;
 }
@@ -158,7 +160,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  #border-bottom: 1px solid $greenpullman;
+  //border-bottom: 1px solid $greenpullman;
 
   @include mobile {
     text-align: center;
