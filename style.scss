@@ -25,7 +25,8 @@ body {
 
 .container {
   //margin: 0 auto;
-  --max-width: 740px;
+  //max-width: 740px;
+  margin: auto;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -158,6 +159,8 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  max-width: 740px;
+  margin: auto;
 }
 
 .masthead {
@@ -373,6 +376,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 20px;
+  max-width: 740px;
+  margin: auto;
   --border-top: 1px solid #ddd;
   --border-bottom: 1px solid #ddd;
   background-color: $whiteish;
