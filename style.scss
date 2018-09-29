@@ -291,8 +291,8 @@ nav {
   //width: 100vw;
   //height:330px
   //width: 960px
-  max-width: 
-  @media (max-width: 960px)
+  //gmax-width: 
+  @media(max-width: 960px)
   {
     flex-flow: row wrap;
     &__item {
@@ -305,7 +305,7 @@ nav {
     flex-grow: 1;
     flex-wrap:wrap;
     background: $whiteish;
-    min-width: 230px;
+    //min-width: 230px;
     // height: 100%;
     display: flex;
     align-items: center;
