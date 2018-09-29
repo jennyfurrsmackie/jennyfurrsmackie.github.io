@@ -25,13 +25,13 @@ body {
 }
 
 .container {
-  margin: 0 auto;
+  //margin: 0 auto;
   --max-width: 740px;
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap-reverse;
+  flex-wrap: wrap;
   justify-content: space-around;
-  padding: 0 0;
+  //padding: 0 0;
   max-width: 740px;
 }
 
@@ -290,9 +290,10 @@ nav {
   //width: 100vw;
   //height:330px
   //width: 960px
+  max-width: 
   @media (max-width: 960px)
   {
-    flex-flow: column no-wrap;
+    flex-flow: row wrap;
     &__item {
       width: 50%;
     }
