@@ -386,6 +386,7 @@ nav {
 }
 
 .wrapper-footer {
+  display: block;
   //display: flex;
   //justify-content: center;
   //align-items: center;
@@ -404,9 +405,9 @@ nav {
 }
 
 footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: block;
+  //justify-content: center;
+  //align-items: center;
   //padding: 0 0;
   position: absolute;
   height: 40px;
