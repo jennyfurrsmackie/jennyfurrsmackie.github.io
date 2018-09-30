@@ -9,7 +9,7 @@ Hello! My name is Jennifer, welcome to my data science sanctuary.
 
 I'm a computer engineer, seeker, observer and experimentalist. 
 I love Machine Learning, AI, systems, pattern detection, drawing, 
-singing, and research in general. I post projects, inquiries, 
+singing, and general research. I post projects, discoveries, 
 and my meandering thoughts to this site, please enjoy!
 
 ### Have Questions? Feel free to reach out!
