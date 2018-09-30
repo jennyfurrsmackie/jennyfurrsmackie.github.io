@@ -385,6 +385,8 @@ nav {
 
 .wrapper-footer, .c-hero-flex:after {
   display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 50px;
   max-width: 740px;
   width: 100%;
