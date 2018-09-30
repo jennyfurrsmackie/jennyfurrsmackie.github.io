@@ -23,8 +23,8 @@ body {
   background: $whiteish;
   font: 14px/1.4 $opensans;
   color: $darkGray;
-  height: 100%;
-  position:relative;
+  //height: 100%;
+  //position:relative;
 }
 
 .container {
@@ -40,7 +40,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-content: center
-  padding-bottom: 40px;
+  //padding-bottom: 40px;
 }
 
 h1, h2, h3, h4, h5, h6 {
