@@ -272,6 +272,7 @@ nav {
 .post {
 	max-width:740px;
     height: 100%;
+    flex-grow: 1;
     blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
