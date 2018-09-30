@@ -384,6 +384,7 @@ nav {
 }
 
 .wrapper-footer, .c-hero-flex:after {
+  display: flex;
   margin-top: 50px;
   max-width: 740px;
   margin-left: auto;
@@ -397,9 +398,9 @@ nav {
 }
 
 footer {
-  //display: flex
-  //justify-content: center;
-  //align-items: center;
+  display: flex
+  justify-content: center;
+  align-items: center;
   //padding: 0 0;
   position: absolute;
   height: 40px;
