@@ -8,7 +8,7 @@ published: true
 Hello! My name is Jennifer, welcome to my data science sanctuary. 
 
 I'm a computer engineer, seeker, observer and experimentalist. 
-I love Machine Learning, AI, systems, pattern detection, drawing, 
+I love Machine Learning, AI, systems, pattern detection, portrait drawing, 
 singing, and general research. I post projects, discoveries, 
 and my meandering thoughts to this site, please enjoy!
 
