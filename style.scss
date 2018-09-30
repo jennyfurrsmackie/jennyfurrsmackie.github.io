@@ -390,6 +390,7 @@ nav {
   margin-left: auto;
   margin-right:auto;
   flex-shrink: 0;
+  bottom:0;
   //border-top: 1px solid #ddd;
   //border-bottom: 1px solid #ddd;
   background-color: $whiteish;
@@ -404,7 +405,6 @@ footer {
   //padding: 0 0;
   position: absolute;
   height: 40px;
-  bottom: 0;
   text-align: center;
 }
 
