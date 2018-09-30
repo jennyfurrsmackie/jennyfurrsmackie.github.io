@@ -384,13 +384,13 @@ nav {
 
 .wrapper-footer, .c-hero-flex:after {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  //justify-content: center;
+  //align-items: center;
   margin-top: 50px;
   max-width: 740px;
   width: 100%;
-  //margin-left: auto;
-  //margin-right:auto;
+  margin-left: auto;
+  margin-right:auto;
   flex-shrink: 0;
   bottom:0;
   //border-top: 1px solid #ddd;
