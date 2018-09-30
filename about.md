@@ -5,12 +5,8 @@ permalink: /about/
 published: true
 ---
 
-This is a Data Science blog, enjoy!
+Hello! My name is Jennifer, welcome to my data science sanctuary. I'm a computer engineer with a recent facination in data science, "prediction," Machine Learning and AI. I also love drawing, singing, and research in general. I post projects, inquiries, and my meandering thoughts to this site, please enjoy!
 
-### More Information
-
-Full immersion. 
-
-### Contact me
+### Have Questions? Feel free to reach out!
 
 [jfwaldern@gmail.com](mailto:jfwaldern@gmail.com)
