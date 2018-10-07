@@ -289,8 +289,10 @@ nav {
   }
 
   .read-more {
+    position: relative;
     text-transform: uppercase;
     font-size: 15px;
+    height: auto;
   }
 }
 
