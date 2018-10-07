@@ -28,25 +28,19 @@ body {
 }
 
 .container {
-  //margin: 0 auto;
+   //margin: 0 auto;
   //max-width: 740px;
   //height: 100%;
-  //height: auto !important;
+  height: auto !important;
   //min-height: 100%;
-  //max-width: 740px;
-  //margin: auto;
-  //display: flex;
-  //flex-direction: row;
-  //flex-wrap: wrap;
-  //justify-content: center;
-  //align-content: center
-  //padding-bottom: 40px;
-
-  margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-  height: auto;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  //padding-bottom: 40px;
   position: relative;
 }
 
@@ -303,21 +297,6 @@ nav {
   }
 }
 
-.gallery {
-  //margin: 0 auto;
-  //max-width: 740px;
-  //height: 100%;
-  height: auto !important;
-  //min-height: 100%;
-  max-width: 740px;
-  margin: auto;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-content: center
-  //padding-bottom: 40px;
-}
 
 // for gallery.html layout (portfolio home)
 .c-hero-flex {
