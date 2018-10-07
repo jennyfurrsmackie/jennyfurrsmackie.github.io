@@ -24,7 +24,7 @@ body {
   font: 14px/1.4 $opensans;
   color: $darkGray;
   height: 100%;
-  //position:relative;
+  position:relative;
 }
 
 .container {
@@ -272,7 +272,7 @@ nav {
 
 .post {
 	max-width:740px;
-    height: 100%;
+    height: auto;
     flex-grow: 1;
     blockquote {
     margin: 1.8em .8em;
@@ -413,6 +413,7 @@ footer {
   position: absolute;
   height: 40px;
   text-align: center;
+  bottom:0;
 }
 
 
