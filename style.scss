@@ -45,8 +45,10 @@ body {
 }
 
 .footer-container {
-  height: auto !important;
-  min-height: 100%;
+  //height: auto !important;
+  height:40px;
+  min-height:40px;
+  //min-height: 100%;
   max-width: 740px;
   margin: auto;
   display: flex;
