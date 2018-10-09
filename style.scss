@@ -50,11 +50,11 @@ body {
   margin: auto;
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  --flex-wrap: wrap;
   justify-content: center;
   align-content: flex-end;
   //padding-bottom: 40px;
-  position: relative;
+  --position: relative;
 
 }
 
