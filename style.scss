@@ -51,10 +51,8 @@ body {
   margin: auto;
   display: flex;
   flex-direction: row;
-  --flex-wrap: wrap;
   justify-content: center;
   align-content: flex-end;
-  //padding-bottom: 40px;
   position: relative;
 
 }
@@ -318,7 +316,7 @@ nav {
   display: flex;
   //flex-flow: column wrap;
   justify-content: center;
-  align-items: center;
+  align-items: stretch;
   flex-wrap:wrap;
   height: auto;
   //height: 26.6vh;
