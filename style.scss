@@ -46,6 +46,7 @@ body {
 
 .footer-container {
   height: auto !important;
+  min-height: 100%;
   max-width: 740px;
   margin: auto;
   display: flex;
@@ -54,7 +55,7 @@ body {
   justify-content: center;
   align-content: flex-end;
   //padding-bottom: 40px;
-  --position: relative;
+  position: relative;
 
 }
 
