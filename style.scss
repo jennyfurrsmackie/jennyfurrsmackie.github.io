@@ -44,6 +44,20 @@ body {
   position: relative;
 }
 
+.footer-container {
+  height: auto !important;
+  max-width: 740px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-end;
+  //padding-bottom: 40px;
+  position: relative;
+
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $oswald;
   --color: $darkerGray;
