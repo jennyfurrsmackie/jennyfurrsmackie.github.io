@@ -277,8 +277,8 @@ nav {
 //
 
 .page {
-  max-width: 740px;
-    width: 740px;
+  max-width: 620px;
+    width: 620px;
     margin-right: 60px;
     margin-left:60px;
 }
@@ -294,9 +294,11 @@ nav {
 }
 
   .post {
-	  max-width:740px;
+	  max-width:620px;
     height: auto;
     flex-grow: 1;
+    margin-right: 60px;
+    margin-left:60px;
     blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -309,8 +311,8 @@ nav {
   }
 
   .entry {
-    max-width: 740px;
-    width: 740px;
+    max-width: 620px;
+    width: 620px;
     margin-right: 60px;
     margin-left:60px;
   }
@@ -324,13 +326,13 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
     height: auto;
-    max-width:740px;
+    max-width:620px;
   }
 }
 
 .gallery {
-  width: 740px;
-  max-width: 740px;
+  width: 620px;
+  max-width: 620px;
   margin-right: 60px;
   margin-left:60px;
 }
