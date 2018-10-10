@@ -276,6 +276,13 @@ nav {
 // .main
 //
 
+.page {
+  max-width: 740px;
+    width: 740px;
+    margin-right: 60px;
+    margin-left:60px;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -297,6 +304,15 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
+    margin-right: 60px;
+    margin-left:60px;
+  }
+
+  .entry {
+    max-width: 740px;
+    width: 740px;
+    margin-right: 60px;
+    margin-left:60px;
   }
 
   .comments {
@@ -314,7 +330,7 @@ nav {
 
 .gallery {
   width: 740px;
-  max-width: 740 px;
+  max-width: 740px;
   margin-right: 60px;
   margin-left:60px;
 }
