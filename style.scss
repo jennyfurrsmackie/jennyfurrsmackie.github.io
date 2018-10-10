@@ -312,6 +312,12 @@ nav {
   }
 }
 
+.gallery {
+  width: 740px;
+  max-width: 740 px;
+  margin-right: 60px;
+  margin-left:60px;
+}
 
 // for gallery.html layout (portfolio home)
 .c-hero-flex {
@@ -327,7 +333,7 @@ nav {
   //height:330px
   //width: 960px
   //gmax-width: 
-  @media(max-width: 960px)
+  @media(max-width: 740px)
   {
     flex-flow: row wrap;
     &__item {
