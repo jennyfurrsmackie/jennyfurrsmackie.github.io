@@ -278,12 +278,16 @@ nav {
 
 .page {
   max-width: 620px;
-    width: 620px;
-    margin-right: 60px;
-    margin-left:60px;
+  width: 620px;
+  margin-right: 60px;
+  margin-left:60px;
 }
 
 .posts > .post {
+  max-width: 620px;
+  width: 620px;
+  margin-right: 60px;
+  margin-left:60px;
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
@@ -291,12 +295,17 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+  max-width: 620px;
+  width: 620px;
+  margin-right: 60px;
+  margin-left:60px;
 }
 
   .post {
-	  max-width:620px;
+    max-width:620px;
+    width: 620px
     height: auto;
-    flex-grow: 1;
+    //flex-grow: 1;
     //margin-right: 60px;
     //margin-left:60px;
     blockquote {
