@@ -32,7 +32,7 @@ body {
   //max-width: 740px;
   //height: 100%;
   height: auto !important;
-  //min-height:80%;
+  min-height:80%;
   //min-height: 100%;
   max-width: 740px;
   margin: auto;
@@ -43,7 +43,15 @@ body {
   align-content: center;
   //padding-bottom: 40px;
   position: relative;
-}
+
+    @media(max-width: 620px)
+    {
+      height: auto;
+      min-height: auto;
+    }
+  }
+} 
+
 
 .footer-container {
   //height: auto !important;
