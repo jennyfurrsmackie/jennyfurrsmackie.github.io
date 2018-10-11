@@ -7,7 +7,7 @@ published: true
 
 Hello! My name is Jennifer,  welcome to my  data science  sanctuary. 
 
-![]({{site.baseurl}}/https://github.com/jennyfurrsmackie/jennyfurrsmackie.github.io/blob/master/images/portrait.jpg?raw=true)
+![]({{site.baseurl}}/https://github.com/jennyfurrsmackie/jennyfurrsmackie.github.io/blob/master/images/portrait.jpg?raw=true/w_200,h_200)
 
 I'm  a  software engineer,  seeker,  observer  and  experimentalist. 
 I love  machine learning, ai, systems,   pattern detection, portrait 
