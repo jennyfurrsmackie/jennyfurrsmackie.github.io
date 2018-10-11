@@ -46,8 +46,8 @@ body {
 
     @media(max-width: 619px)
     {
-      height: auto;
-      min-height: auto;
+      height: 80vh;
+      min-height: 80vh;
     }
 }
 
@@ -375,7 +375,7 @@ nav {
     flex-flow: row wrap;
     &__item {
       width: 50%;
-      //height: 100%;
+      height: 40%;
     }
   }
       
