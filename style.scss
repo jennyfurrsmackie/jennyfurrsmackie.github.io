@@ -376,7 +376,7 @@ nav {
     flex-flow: row wrap;
     &__item {
       width: 50%;
-      height: 20vh;
+      //height: 20vh;
     }
   }
       
@@ -386,6 +386,7 @@ nav {
     flex-wrap:wrap;
     background: $whiteish;
     min-width: 240px;
+    height: auto;
     // height: 100%;
     display: flex;
     align-items: center;
