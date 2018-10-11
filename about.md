@@ -6,10 +6,12 @@ published: true
 ---
 
 Hello! My name is Jennifer,  welcome to my  data science  sanctuary. 
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-![]({{site.baseurl}}https://raw.githubusercontent.com/jennyfurrsmackie/jennyfurrsmackie.github.io/master/images/portrait.jpg)
-
+![]({{site.baseurl}}https://raw.githubusercontent.com/jennyfurrsmackie/jennyfurrsmackie.github.io/master/images/portrait.jpg){: height="378px" width="288px" align="left"}
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 I'm  a  software engineer,  seeker,  observer  and  experimentalist. 
