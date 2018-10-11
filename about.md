@@ -7,6 +7,7 @@ published: true
 
 Hello! My name is Jennifer,  welcome to my  data science  sanctuary. 
 
+
 ![]({{site.baseurl}}https://raw.githubusercontent.com/jennyfurrsmackie/jennyfurrsmackie.github.io/master/images/portrait.jpg)
 
 
