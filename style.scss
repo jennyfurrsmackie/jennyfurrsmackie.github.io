@@ -46,6 +46,30 @@ body {
 
     @media(max-width: 619px)
     {
+      height: auto;
+      min-height: auto;
+    }
+}
+
+.main-container {
+ //margin: 0 auto;
+  //max-width: 740px;
+  //height: 100%;
+  height: auto !important;
+  min-height:90%;
+  //min-height: 100%;
+  max-width: 740px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  //padding-bottom: 40px;
+  position: relative;
+
+    @media(max-width: 619px)
+    {
       height: 80vh;
       min-height: 80vh;
     }
