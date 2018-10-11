@@ -9,7 +9,7 @@ Hello! My name is Jennifer,  welcome to my  data science  sanctuary.
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-![]({{site.baseurl}}https://raw.githubusercontent.com/jennyfurrsmackie/jennyfurrsmackie.github.io/master/images/portrait.jpg){: height="378px" width="288px" align="left"}
+![]({{site.baseurl}}https://raw.githubusercontent.com/jennyfurrsmackie/jennyfurrsmackie.github.io/master/images/portrait.jpg) {: height="378px" width="288px" align="right"}
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 
