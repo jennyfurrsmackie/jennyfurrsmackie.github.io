@@ -48,7 +48,7 @@ body {
     {
       height: auto;
       min-height: auto;
-      max-height: 40%
+      //max-height: 40%
     }
   }
 
@@ -376,7 +376,7 @@ nav {
     flex-flow: row wrap;
     &__item {
       width: 50%;
-      height: 40vh;
+      height: 20vh;
     }
   }
       
